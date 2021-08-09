@@ -24,7 +24,7 @@ while i != 0:
 Para informar o conjunto dos estados finais, caso o mesmo possua mais de um item, separe os items por vírgula.
 Exemplo:
 ```
-  q1,q2,q3
+q1,q2,q3
 ```
 Como o conjunto de estados finais é formado:
 ```
