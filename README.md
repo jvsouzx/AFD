@@ -6,6 +6,7 @@ Trabalho realizado para a disciplina de Linguagens Formais e Autômatos
   python3 afd.py
 ```
 ## Função de Transição ##
+Para criar sua função de transição basta informar o estado atual, o símbolo lido e o estado final(após o símbolo ser lido). Após informar, digite 1 para adicionar mais um passo a função ou 0 para finalizar o processo.
 ```
 i = 1
 while i != 0:
