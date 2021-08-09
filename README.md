@@ -1,7 +1,7 @@
-# AUTÔMATO FINITO DETERMINISTICO
+# Autômato Finito Determinísitico
 Trabalho realizado para a disciplina de Linguagens Formais e Autômatos
 
-# COMPILAR # 
+# Compilar # 
   ```
     python3 afd.py
   ```
