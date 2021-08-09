@@ -28,7 +28,7 @@ q1,q2,q3
 ```
 Como o conjunto de estados finais é formado:
 ```
-F = input("Informe o conjunto de Estados Finais:") #caso tenha mais de um estado final, separe-os com uma vírgula. Ex: q1,q2
+F = input("Informe o conjunto de Estados Finais:")
 F = F.split(',')
 
 ```
